@@ -1,4 +1,4 @@
-/* CREATE INDEX for coffee_name in Cofee table */
+/* CREATE INDEX for coffee_name in Coffee table */
 
 use jaunty_coffee_co;
 
